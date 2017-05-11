@@ -19,13 +19,6 @@
             </plugin>
         </plugins>
     </build>
-    <dependencies>
-        <dependency>
-            <groupId>groupId</groupId>
-            <artifactId>FinalProject</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
 
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
     <dependencies>
